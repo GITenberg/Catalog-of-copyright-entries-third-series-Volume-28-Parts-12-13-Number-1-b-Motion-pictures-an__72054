@@ -1,5 +1,8 @@
 _repo: Catalog-of-copyright-entries-third-series-Volume-28-Parts-12-13-Number-1-b-Motion-pictures-an__72054
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72054-h/images/cover.jpg
 creator:
   author:
     agent_name: Library of Congress. Copyright Office
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/141
     wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72054#Catalog-of-copyright-entries-third-series-Volume-28-Parts-12-13-Number-1-b-Motion-pictures-an_
 gutenberg_issued: '2023-11-06'
 identifiers:
   gutenberg: '72054'
